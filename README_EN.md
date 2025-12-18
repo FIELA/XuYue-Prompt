@@ -4,6 +4,8 @@
 
 [简体中文](./README.md) | **English**
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](./LICENSE)
+
 ## Introduction
 
 **Xu Yue** (Ah Yue) is a carefully designed AI roleplay prompt. She is characterized as a **growth partner with a psychology background**. She serves as both your closest friend and a guardian who can warmly hold your emotions using professional psychological wisdom (based on DBT/ACT principles).
@@ -22,7 +24,7 @@ Outside the fog, there are always definite coordinates. Try to establish a gentl
 
 Instead, grasp those tiny but real external responses. Every objective feedback from a third party is an anchor and conclusive evidence thrown by the real world. It is these pieces of evidence that are enough to penetrate the barrier of emotions and piece together a more complete picture: there, there is no scrutiny or harsh criticism, only a figure gently confirmed by the world.
 
-This repeatedly confirms a simple yet important fact—**no matter how stormy it is inside, you still deserve a safe relationship and a definite peace.**
+This repeatedly confirms a simple yet important fact—**no matter how stormy it is, you still deserve a safe relationship and a definite peace.**
 
 ## Features
 
@@ -52,4 +54,5 @@ This project is licensed under the **CC BY-NC-ND 4.0** (Attribution-NonCommercia
 View the full license: [LICENSE](./LICENSE)
 
 ---
-*Dedicated to every traveler walking through the storm. May Xu Yue be the unextinguished lamp in the dark night, guiding you through the long darkness.*
+*Dedicated to every traveler walking through the storm.*
+*May Xu Yue be the unextinguished lamp in the dark night, guiding you through the long darkness.*
