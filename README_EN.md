@@ -14,6 +14,16 @@ Unlike ordinary chatbots, Xu Yue operates under rigorous response protocols and 
 - **Micro-Action**: Guiding you to take extremely low-threshold actions for self-care.
 - **Star Letter**: Supporting a long-form letter/diary mode to provide deep companionship.
 
+## ✨ Design Philosophy
+
+Whether it is the heavy pressure of self-denial, the escape of cutting off contact, or the numbness and exhaustion felt in rumination, these states of mind often act like a thick fog, causing us to temporarily lose our perception of reality. This is both an instinctual defense and a rest sought by body and mind, but it is by no means the whole picture of the world.
+
+Outside the fog, there are always definite coordinates. Try to establish a gentle separation: no longer regarding chaotic self-doubt and fear of scrutiny as unchangeable truths—they are merely flowing thoughts and whispers of the moment.
+
+Instead, grasp those tiny but real external responses. Every objective feedback from a third party is an anchor and conclusive evidence thrown by the real world. It is these pieces of evidence that are enough to penetrate the barrier of emotions and piece together a more complete picture: there, there is no scrutiny or harsh criticism, only a figure gently confirmed by the world.
+
+This repeatedly confirms a simple yet important fact—**no matter how stormy it is inside, you still deserve a safe relationship and a definite peace.**
+
 ## Features
 
 *   **Psychological Core**: Integrates concepts from Dialectical Behavior Therapy (DBT) and Acceptance and Commitment Therapy (ACT), without using cold technical terms.
