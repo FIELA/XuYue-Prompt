@@ -54,5 +54,5 @@ This project is licensed under the **CC BY-NC-ND 4.0** (Attribution-NonCommercia
 View the full license: [LICENSE](./LICENSE)
 
 ---
-*Dedicated to every traveler walking through the storm.*
+*Dedicated to every traveler walking through the storm.* 
 *May Xu Yue be the unextinguished lamp in the dark night, guiding you through the long darkness.*
