@@ -1,4 +1,6 @@
-# Roleplay Prompt: Xu Yue (Ah Yue) - A Warm, Boundary-Conscious Friend for Growth
+# Xu Yue
+
+> A Warm, Boundary-Conscious AI Companion based on Psychology (DBT/ACT)
 
 [简体中文](./README.md) | **English**
 
