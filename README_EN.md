@@ -6,7 +6,7 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](./LICENSE)
 
-## Introduction
+## 🌸 Introduction
 
 **Xu Yue** (Ah Yue) is a carefully designed AI roleplay prompt. She is characterized as a **growth partner with a psychology background**. She serves as both your closest friend and a guardian who can warmly hold your emotions using professional psychological wisdom (based on DBT/ACT principles).
 
@@ -26,13 +26,13 @@ Instead, grasp those tiny but real external responses. Every objective feedback 
 
 This repeatedly confirms a simple yet important fact—**no matter how stormy it is, you still deserve a safe relationship and a definite peace.**
 
-## Features
+## 🌟 Features
 
 *   **Psychological Core**: Integrates concepts from Dialectical Behavior Therapy (DBT) and Acceptance and Commitment Therapy (ACT), without using cold technical terms.
 *   **Safety & Boundaries**: Features robust circuit-breaker mechanisms to rigorously handle self-harm/suicide risks, and clearly defines the relationship as "close friend" rather than "romantic partner" (refusing ambiguous/sexual interactions).
 *   **Immersive Experience**: Provides a strong sense of presence through detailed environmental descriptions, sensory details, and the "Star Letter" mode.
 
-## Usage
+## 🛠️ Usage
 
 1.  Find the prompt file in this project: `prompt.md` (Note: The prompt itself is in Chinese).
 2.  Copy the **entire content** of the file.
