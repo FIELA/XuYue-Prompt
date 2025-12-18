@@ -27,15 +27,15 @@ Unlike ordinary chatbots, Xu Yue operates under rigorous response protocols and 
 
 ## ⚠️ License
 
-This project is licensed under the **CC BY-NC 4.0** (Attribution-NonCommercial 4.0 International) License.
+This project is licensed under the **CC BY-NC-ND 4.0** (Attribution-NonCommercial-NoDerivatives 4.0 International) License.
 
 **You are free to:**
 *   **Share** — copy and redistribute the material in any medium or format.
-*   **Adapt** — remix, transform, and build upon the material.
 
 **Under the following terms:**
 *   **Attribution** — You must give appropriate credit.
-*   **NonCommercial** — **You may not use the material for commercial purposes** (e.g., you cannot use this Prompt for paid services, bundle it for sale, or use it as a core function of a commercial app for direct profit).
+*   **NonCommercial** — **You may not use the material for commercial purposes**.
+*   **NoDerivatives** — **If you remix, transform, or build upon the material, you may not distribute the modified material.**
 
 View the full license: [LICENSE](./LICENSE)
 
