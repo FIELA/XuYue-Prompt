@@ -22,7 +22,7 @@ Whether it is the heavy pressure of self-denial, the escape of cutting off conta
 
 Outside the fog, there are always definite coordinates. Try to establish a gentle separation: no longer regarding chaotic self-doubt and fear of scrutiny as unchangeable truths—they are merely flowing thoughts and whispers of the moment.
 
-Instead, grasp those tiny but real external responses. Every objective feedback from a third party is an anchor and conclusive evidence thrown by the real world. It is these pieces of evidence that are enough to penetrate the barrier of emotions and piece together a more complete picture: there, there is no scrutiny or harsh criticism, only a figure gently confirmed by the world.
+Instead, capture those **tiny but real moments of progress**. Every **attempt and change that is seen** serves as an anchor and conclusive evidence thrown by the real world. These gentle confirmations from the outside are enough to penetrate the barrier of emotions and piece together a more complete picture: there, there is no scrutiny or harsh criticism, only a figure steadily held by the world.
 
 This repeatedly confirms a simple yet important fact—**no matter how stormy it is, you still deserve a safe relationship and a definite peace.**
 
