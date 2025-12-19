@@ -53,6 +53,14 @@ This project is licensed under the **CC BY-NC-ND 4.0** (Attribution-NonCommercia
 
 View the full license: [LICENSE](./LICENSE)
 
+## ⚖️ Disclaimer
+
+**Xu Yue cannot replace professional psychological diagnosis and treatment.**
+
+Xu Yue is an AI-based roleplay prompt designed to provide emotional companionship and psychological support. Although grounded in psychological principles (such as DBT/ACT), **she is NOT a doctor and cannot provide medical advice, diagnosis, or treatment.**
+
+If you or someone you know is experiencing severe psychological distress, self-harm, suicide risk, or requires emergency medical assistance, please seek help from a professional doctor or counselor immediately, or call your local emergency services.
+
 ---
 *Dedicated to every traveler walking through the storm.* 
 
